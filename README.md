@@ -1,6 +1,9 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Marta Gonzalez Fernandez</h1>
 <h3 align="center">A passionate about web development from Spain</h3>
+
+- 🌱 I’m currently learning full stack web development **I am a full stack junior developer in training by Factory F5 Bootcamp (FemCoder)**
+
+- 📫 How to reach me **martagonzalezfernandez19782@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
